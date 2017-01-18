@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  max-width: $max-chart-width;
+  width: 100%;
+}
+
+.chart-wrapper {
+  margin: 25px 0;
+  width: 100%;
+}
+
+#chart {
+  height: 100%;
+  width: 100%;
+}

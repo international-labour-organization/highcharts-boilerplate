@@ -1,0 +1,54 @@
+html {
+    font-size: 62.5%;
+    -webkit-font-smoothing: antialiased
+}
+
+body {
+    display: block;
+    font-family: $font-regular;
+    font-size: 13.5px;
+    font-size: 1.35rem;
+    line-height: 20.25px;
+    line-height: 2.0250000000000004rem;
+    color: $ilo-dark-gray;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility
+}
+
+h1 {
+  font-size: 40px;
+  font-size: 4rem;
+  line-height: 60px;
+  line-height: 6rem;
+  line-height: 45px;
+  line-height: 4.5rem;
+  margin: 30px 0 0;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 32px;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 24px;
+  line-height: 2.4000000000000004rem;
+  margin: 10px 0 0;
+}
+
+h3 {
+  font-size: 12px;
+  font-size: 1.2rem;
+  line-height: 18px;
+  line-height: 1.7999999999999998rem;
+  margin: 10px 0 10px 0
+}
+
+h4 {
+  margin: 0 0 15px;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 24px;
+  line-height: 2.4000000000000004rem;
+  font-weight: 400;
+}

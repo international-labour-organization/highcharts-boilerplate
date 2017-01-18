@@ -1,0 +1,24 @@
+/* Normalize */
+ @import '../../node_modules/normalize.css/normalize.css';
+
+/* Fonts */
+@import './partials/fonts';
+
+/* Settings */
+@import './partials/_base';
+
+/* Typography  */
+@import './partials/typography';
+
+/* Base */
+@import './partials/_base';
+
+/* Containers */
+@import './partials/_containers';
+
+/* MOBILE STYLES */
+@media only screen and (max-width: 500px) {
+
+  // Mobile styles go here
+
+}
