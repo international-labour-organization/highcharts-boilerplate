@@ -26,11 +26,11 @@ Build the dev version of your chart, watch for changes and reload, and open a ne
 
 Lint your project with semistandard
 
-    $npm lint
+    $npm run lint
 
 Build the production version of your chart
 
-    $npm build
+    $npm run build
 
 ### Data
 If you're not fetching data remotely, you can put your data in `data/data.json` to make it available for your chart.  
