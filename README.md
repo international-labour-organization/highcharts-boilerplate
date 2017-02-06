@@ -22,15 +22,15 @@ A list of things that come configured
 ### Build
 Build the dev version of your chart, watch for changes and reload, and open a new window in your browser.
 
-    $npm start
+    $ npm start
 
 Lint your project with semistandard
 
-    $npm run lint
+    $ npm run lint
 
 Build the production version of your chart
 
-    $npm run build
+    $ npm run build
 
 ### Data
 If you're not fetching data remotely, you can put your data in `data/data.json` to make it available for your chart.  
